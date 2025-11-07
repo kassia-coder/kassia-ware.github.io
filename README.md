@@ -548,7 +548,7 @@
         <div class="container">
             <div class="hero-content">
                 <div class="profile-image">
-                    <img src="" alt="Kassia Ware">
+                    <img src="https://i.postimg.cc/kXSSmVLz/IMG-0152-Medium.jpg" alt="Kassia Ware">
                 </div>
                 
                 <div class="hero-text">
